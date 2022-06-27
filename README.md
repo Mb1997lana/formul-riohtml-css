@@ -6,4 +6,4 @@ Estou iniciando com essas duas tecnologias e resolvi praticar um pouco.
 
 Essa avendtura está apenas começando!
 
-## Hands in code!
+## Hands on code!
